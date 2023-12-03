@@ -23,6 +23,5 @@ __https://drive.google.com/file/d/10o-7io5Tv-8cLYBeMKovRZauDEF6lxa2/view?usp=sha
 ###
 ### Give a suggestion
 If you came across this project and have tip/suggestion/advice feel free to contact me!
-I am also looking for someone to make characters once project has be worked on a bit more.
 
-> All fonts, images and audios used in project belong to their respected owners.
+> All fonts, images, videos and audios used in project belong to their respected owners.
